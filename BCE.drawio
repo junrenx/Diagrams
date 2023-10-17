@@ -1,13 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T12:41:08.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="MM3WnkaoirsKFD8Aa5P_" version="22.0.4" type="github" pages="2">
-  <diagram name="Page-1" id="hzB3vnw-TgfJDQ0SbW98">
-    <mxGraphModel dx="1162" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-10-17T13:15:05.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="hpk556yZjT_cBc0Wu0Yh" version="22.0.4" type="github" pages="2">
+  <diagram name="SystemAdminLogin" id="hzB3vnw-TgfJDQ0SbW98">
+    <mxGraphModel dx="1694" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-28" target="Pf1f-GPJ4pG_dbanzRFX-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="930" as="sourcePoint" />
+            <mxPoint x="285" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.525;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-8" target="Pf1f-GPJ4pG_dbanzRFX-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="803" y="930" as="sourcePoint" />
+            <mxPoint x="804.55" y="571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.545;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pf1f-GPJ4pG_dbanzRFX-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="940" as="sourcePoint" />
+            <mxPoint x="504.83000000000004" y="571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-18" target="Pf1f-GPJ4pG_dbanzRFX-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="850" as="sourcePoint" />
+            <mxPoint x="285" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O3HFnDaN8h5U3pmmsdW3-17" value="&amp;lt;&amp;lt;Boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;SystemAdminLoginUI&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="140" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="O3HFnDaN8h5U3pmmsdW3-18" value="+ displayPage()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O3HFnDaN8h5U3pmmsdW3-17">
+        <mxCell id="O3HFnDaN8h5U3pmmsdW3-18" value="+ displayLoginPage()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O3HFnDaN8h5U3pmmsdW3-17">
           <mxGeometry y="40" width="140" height="74" as="geometry" />
         </mxCell>
         <mxCell id="O3HFnDaN8h5U3pmmsdW3-24" value="&amp;lt;&amp;lt;Controller&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;SystemAdminLoginController&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,20 +55,248 @@
         <mxCell id="O3HFnDaN8h5U3pmmsdW3-52" value="+ login(u, p, ut): bool" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="720" y="350" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O3HFnDaN8h5U3pmmsdW3-48" value="&amp;lt;&amp;lt;Entity&amp;gt;&amp;gt;&lt;b&gt;&lt;br&gt;Account&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O3HFnDaN8h5U3pmmsdW3-48" value="&amp;lt;&amp;lt;Entity&amp;gt;&amp;gt;&lt;b&gt;&lt;br&gt;User&lt;br&gt;&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="220" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="O3HFnDaN8h5U3pmmsdW3-49" value="- username: String&lt;br&gt;- password: String&lt;br&gt;- gender: char&lt;br&gt;- name: String&lt;br&gt;- usertype: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O3HFnDaN8h5U3pmmsdW3-48">
           <mxGeometry y="40" width="210" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="sourcePoint" />
+            <mxPoint x="280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-4" value="Click&lt;br&gt;&quot;Login&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-3">
+          <mxGeometry x="-0.1165" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-1" value="System Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-2" target="Pf1f-GPJ4pG_dbanzRFX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="691" />
+              <mxPoint x="510" y="691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-7" value="validateLogin(u, p, ut)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-6">
+          <mxGeometry x="-0.0179" y="1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-2" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="661" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.105;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.188;exitY=0.215;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511.05" y="710.65" as="sourcePoint" />
+            <mxPoint x="799.7199999999998" y="720.9989999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="720" />
+              <mxPoint x="800" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-11" value="login(u, p, ut)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-9">
+          <mxGeometry x="0.1968" y="-2" relative="1" as="geometry">
+            <mxPoint x="-21" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-5" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="671" width="10" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-15" value="SystemAdmin&lt;br&gt;LoginUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-16" value="&amp;nbsp;SystemAdmin&lt;br&gt;LoginController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-17" value="Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-18" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-18" target="Pf1f-GPJ4pG_dbanzRFX-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="570" as="sourcePoint" />
+            <mxPoint x="300" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="570" />
+              <mxPoint x="320" y="570" />
+              <mxPoint x="320" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-21" value="DisplayLoginPage()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-20">
+          <mxGeometry x="-0.005" relative="1" as="geometry">
+            <mxPoint x="51" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.172;exitY=0.394;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.343;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pf1f-GPJ4pG_dbanzRFX-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794.2499999999999" y="762.2610000000001" as="sourcePoint" />
+            <mxPoint x="510.00000000000006" y="759.997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-23" value="return (success)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-22">
+          <mxGeometry x="-0.0599" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.103;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="790" as="sourcePoint" />
+            <mxPoint x="290" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-25" value="displaySystemAdminPage()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-24">
+          <mxGeometry x="-0.0599" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="Pf1f-GPJ4pG_dbanzRFX-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="850" as="sourcePoint" />
+            <mxPoint x="285" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-26" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.01;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.057;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.1499999999997" y="840.0010000000001" as="sourcePoint" />
+            <mxPoint x="509.99999999999994" y="840.316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-30" value="return (fail)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-29">
+          <mxGeometry x="-0.0599" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.103;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="869.52" as="sourcePoint" />
+            <mxPoint x="290" y="869.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-32" value="displayLoginPage()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pf1f-GPJ4pG_dbanzRFX-31">
+          <mxGeometry x="-0.0599" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="Pf1f-GPJ4pG_dbanzRFX-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="930" as="sourcePoint" />
+            <mxPoint x="285" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-28" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="870" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.525;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pf1f-GPJ4pG_dbanzRFX-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="803" y="930" as="sourcePoint" />
+            <mxPoint x="803" y="562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pf1f-GPJ4pG_dbanzRFX-8" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="799.72" y="690" width="10" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ayuV4quFEUJsa5RrPppK" name="Page-2">
-    <mxGraphModel dx="2033" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="ayuV4quFEUJsa5RrPppK" name="SystemAdminLogout">
+    <mxGraphModel dx="1694" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xHKSTduAfZbdzU8Fh9bG-18" target="xHKSTduAfZbdzU8Fh9bG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="870" as="sourcePoint" />
+            <mxPoint x="285" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="xHKSTduAfZbdzU8Fh9bG-25" target="xHKSTduAfZbdzU8Fh9bG-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="850" as="sourcePoint" />
+            <mxPoint x="285" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-4" value="&amp;lt;&amp;lt;Boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;SystemAdminLogoutUI&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="340" width="220" height="114" as="geometry">
+            <mxRectangle x="590" y="220" width="170" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-5" value="+session_destroy()&lt;br&gt;+displaySystemAdminPage()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="xHKSTduAfZbdzU8Fh9bG-4">
+          <mxGeometry y="40" width="220" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="sourcePoint" />
+            <mxPoint x="280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-14" value="Click&lt;br&gt;&quot;Logout&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHKSTduAfZbdzU8Fh9bG-13">
+          <mxGeometry x="-0.1165" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-15" value="System Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-18" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="661" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-22" value="SystemAdmin&lt;br&gt;LoginUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-25" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xHKSTduAfZbdzU8Fh9bG-25" target="xHKSTduAfZbdzU8Fh9bG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="570" as="sourcePoint" />
+            <mxPoint x="300" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="570" />
+              <mxPoint x="320" y="570" />
+              <mxPoint x="320" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-27" value="displaySystemAdminPage()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHKSTduAfZbdzU8Fh9bG-26">
+          <mxGeometry x="-0.005" relative="1" as="geometry">
+            <mxPoint x="72" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="930" as="sourcePoint" />
+            <mxPoint x="285" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="717" as="sourcePoint" />
+            <mxPoint x="296" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="700" />
+              <mxPoint x="326" y="700" />
+              <mxPoint x="326" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHKSTduAfZbdzU8Fh9bG-43" value="Session_destroy()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHKSTduAfZbdzU8Fh9bG-42">
+          <mxGeometry x="-0.005" relative="1" as="geometry">
+            <mxPoint x="51" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
