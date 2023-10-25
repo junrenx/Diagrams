@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T01:40:07.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LbXVC7QQ5myFunt7imJS" version="22.0.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-10-25T01:52:29.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vCHijjT-icf0kl-7v_4Y" version="22.0.7" type="github" pages="15">
   <diagram name="SystemAdminLogin" id="hzB3vnw-TgfJDQ0SbW98">
-    <mxGraphModel dx="1221" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ayuV4quFEUJsa5RrPppK" name="SystemAdminLogout">
-    <mxGraphModel dx="1221" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zOysTIYbsOonCprx6KJG" name="CafeOwnerLogin">
-    <mxGraphModel dx="1221" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,7 +433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GE_KR9O6745j0st7QrmA" name="CafeOwnerLogout">
-    <mxGraphModel dx="1221" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -688,54 +688,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pdIMniCinX9cA4HFJFYh" name="CafeManagerLogout">
-    <mxGraphModel dx="2033" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iyg9jLEc3TmvyGTXDjhq-8" target="iyg9jLEc3TmvyGTXDjhq-10">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iyg9jLEc3TmvyGTXDjhq-8" target="iyg9jLEc3TmvyGTXDjhq-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="285" y="870" as="sourcePoint" />
             <mxPoint x="285" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="iyg9jLEc3TmvyGTXDjhq-10" target="iyg9jLEc3TmvyGTXDjhq-9">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" source="iyg9jLEc3TmvyGTXDjhq-10" target="iyg9jLEc3TmvyGTXDjhq-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="285" y="850" as="sourcePoint" />
             <mxPoint x="285" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-3" value="&amp;lt;&amp;lt;Boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;LogoutUI&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-3" value="&amp;lt;&amp;lt;Boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;LogoutUI&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="340" width="220" height="114" as="geometry">
             <mxRectangle x="590" y="220" width="170" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-4" value="+session_destroy()&lt;br&gt;+displayCafeManagerPage()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iyg9jLEc3TmvyGTXDjhq-3">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-4" value="+session_destroy()&lt;br&gt;+displayCafeManagerPage()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iyg9jLEc3TmvyGTXDjhq-3" vertex="1">
           <mxGeometry y="40" width="220" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="680" as="sourcePoint" />
             <mxPoint x="280" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-6" value="Click&lt;br&gt;&quot;Logout&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iyg9jLEc3TmvyGTXDjhq-5">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-6" value="Click&lt;br&gt;&quot;Logout&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iyg9jLEc3TmvyGTXDjhq-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1165" relative="1" as="geometry">
             <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-7" value="Cafe Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-7" value="Cafe Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="640" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-8" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-8" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="661" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-9" value="LogoutUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-9" value="LogoutUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-10" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-10" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="590" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iyg9jLEc3TmvyGTXDjhq-10" target="iyg9jLEc3TmvyGTXDjhq-10">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iyg9jLEc3TmvyGTXDjhq-10" target="iyg9jLEc3TmvyGTXDjhq-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="570" as="sourcePoint" />
             <mxPoint x="300" y="600" as="targetPoint" />
@@ -746,12 +746,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-12" value="displayCafeManagerPage()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iyg9jLEc3TmvyGTXDjhq-11">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-12" value="displayCafeManagerPage()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iyg9jLEc3TmvyGTXDjhq-11" vertex="1" connectable="0">
           <mxGeometry x="-0.005" relative="1" as="geometry">
             <mxPoint x="72" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.429;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="717" as="sourcePoint" />
             <mxPoint x="296" y="720" as="targetPoint" />
@@ -762,7 +762,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iyg9jLEc3TmvyGTXDjhq-14" value="Session_destroy()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iyg9jLEc3TmvyGTXDjhq-13">
+        <mxCell id="iyg9jLEc3TmvyGTXDjhq-14" value="Session_destroy()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iyg9jLEc3TmvyGTXDjhq-13" vertex="1" connectable="0">
           <mxGeometry x="-0.005" relative="1" as="geometry">
             <mxPoint x="51" y="8" as="offset" />
           </mxGeometry>
